@@ -1,0 +1,3 @@
+services:
+  prism:
+    image: prism/prism 
